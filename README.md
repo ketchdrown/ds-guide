@@ -1,10 +1,17 @@
-# guide-ds
-<b>[v92.4] Dreadspire Guide for TERA Online</b>
+# ds-guide
+Guide for Dreadspire
 
-Works with Menma's Tera built-in proxy as well as the other Patch v92->v93 servers
+## Commands
+### `ds [off/on]'
+- Toggle off/on
+- Default is on
 
-<b>FAQ:</b>
-  - /ds to enable/disable 
-  - Insert unzipped folder into mods .../proxy/mods/guide-ds-master
-  - Original owner u/teralove [ discontinued ]
-  - More mods soon...
+### `ds stream'
+- Toggle stream mode (Disable notices and flowers)
+- Default is off
+
+See config.json to toggle specific bosses and options.
+
+---
+
+[Donate](https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=PXRFYB39SQP4A&lc=US&item_name=teralove&no_note=0&cn=Add%20special%20instructions%20to%20the%20seller%3a&no_shipping=1&currency_code=USD&bn=PP%2dDonationsBF%3abtn_donate_LG%2egif%3aNonHosted).

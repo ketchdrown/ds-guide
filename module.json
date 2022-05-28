@@ -1,0 +1,11 @@
+{
+    "disableAutoUpdate": false,
+    "name": "ds-guide",
+    "author": "ketchdrown",
+    "description": "Guide for Dreadspire",
+    "options": {
+        "niceName": "DS Guide"
+    },
+    "servers": ["https://raw.githubusercontent.com/ketchdrown/ds-guide/master/"],
+    "supportUrl": "https://github.com/ketchdrown/ds-guide/issues"
+}

@@ -5,7 +5,7 @@
     "description": "Guide for Dreadspire",
     "version": "2.0",
     "options": {
-        "niceName": "<font color='#00FFFF'> DS Guide </font>",
+        "niceName": "<font color='#FFC0CB'> DS Guide </font>",
         "reloadable": true
     },
     "servers": ["https://raw.githubusercontent.com/ketchdrown/ds-guide/master/"],

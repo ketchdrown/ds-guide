@@ -1,7 +1,7 @@
 {
     "files": {
         "index.js": "ffa275cc65849319bb6b807b564882845e51ab554eac16c7c961259d452574b6",
-        "module.json": "b62016f83e43617441d526dbc15fe6816d705dbd7e0569c88d3b3e9527f949c4"
+        "module.json": "afd5afea6047355942f0082a49d073c0c00351778ab4705670604dc85918e2bc"
     },
     "defs": {
         "S_DESPAWN_COLLECTION": "boss5",

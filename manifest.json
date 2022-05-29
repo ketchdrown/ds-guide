@@ -1,17 +1,10 @@
 {
     "files": {
-        "index.js": "1052f69a45d0d578e2d23dee3240f6a19bd7527bb737639bb55170e1fc73ca43",
+        "index.js": "ffa275cc65849319bb6b807b564882845e51ab554eac16c7c961259d452574b6",
         "module.json": "bc7310deb6d67644e645f8da19e36c83473057b2dc561211e115f5ed2b9dc699"
     },
     "defs": {
-        "S_ABNORMALITY_BEGIN": 3,
-        "S_ACTION_STAGE": 9,
-        "S_BOSS_GAGE_INFO": 3,
-        "S_CHAT": 3,
-        "S_DESPAWN_COLLECTION": 2,
-        "S_DUNGEON_EVENT_MESSAGE": 2,
-        "S_NPC_STATUS": 2,
-        "S_SPAWN_COLLECTION": 4,
-        "S_SPAWN_NPC": 11
+        "S_DESPAWN_COLLECTION": "boss5",
+        "S_SPAWN_COLLECTION": "rg9udxq"
     }
 }

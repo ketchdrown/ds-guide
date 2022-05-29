@@ -3,8 +3,10 @@
     "name": "ds-guide",
     "author": "ketchdrown",
     "description": "Guide for Dreadspire",
+    "version": "2.0",
     "options": {
-        "niceName": "DS Guide"
+        "niceName": "<font color='#00FFFF'> DS Guide </font>",
+        "reloadable": true
     },
     "servers": ["https://raw.githubusercontent.com/ketchdrown/ds-guide/master/"],
     "supportUrl": "https://github.com/ketchdrown/ds-guide/issues"
